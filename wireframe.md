@@ -1,3 +1,10 @@
+Simple visual guide that represents the framework/blueprint of what you are building
+
+→ Page layout
+→ How information is organized
+→ How the user interacts with the website → menus/links etc.
+
+
 Low-fidelity
 
 A simple and quick mockup with dummy content. It's first idea of the application
